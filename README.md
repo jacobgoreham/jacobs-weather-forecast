@@ -1,14 +1,15 @@
 #How to use this project.
 
-Using this Weather Forecast app is very simple. Select the location where you'd like to check the weather and it will show you.
-It will also store recent searches for places you've looked at already!
+Using this Weather Forecast app is very simple. Select the location where you'd like to check the weather and it will show you. It will also store recent searches for places you've looked at already!
 
 ##User Story
+
 AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 
 ##Acceptance Criteria
+
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
